@@ -1,0 +1,6 @@
+/backend/.env
+.DS_STORE
+
+/backend/dist/
+*.log
+/backend/node_modules/
